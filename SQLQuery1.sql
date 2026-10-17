@@ -1,0 +1,6 @@
+﻿CREATE TABLE Ogrenciler
+(
+  OgrenciID INT PRIMARY KEY,
+  Ad NVARCHAR(50),
+  Soyad NVARCHAR (50)
+);
